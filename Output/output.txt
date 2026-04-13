@@ -1,0 +1,120 @@
+--- Python OOP Project:Employee Management System ---
+Choose an operation:
+1. Create a Person
+2. Create an Employee
+3. Create a Manager
+4. Show Details
+5. Exit
+
+Enter your choice:  1
+Enter Name:  sakshi
+Enter Age:  25
+
+Person created with name:sakshi and age:25.
+
+--- Python OOP Project:Employee Management System ---
+Choose an operation:
+1. Create a Person
+2. Create an Employee
+3. Create a Manager
+4. Show Details
+5. Exit
+
+Enter your choice:  2
+Enter Name:  komal
+Enter Age:  24
+Enter Employee:  12025
+Enter Salary:  45,454
+
+Employee created with name: komal, age: 24, ID: 12025, and salary: $45,454.
+
+--- Python OOP Project:Employee Management System ---
+Choose an operation:
+1. Create a Person
+2. Create an Employee
+3. Create a Manager
+4. Show Details
+5. Exit
+
+Enter your choice:  3
+Enter Name:  aanya
+Enter Age:  35
+Enter Employee ID:  2456
+Enter Salary:  23,000
+Enter Department:  fgcf
+Manager created with name: aanya, age: 35, ID: 2456, salary: $23,000, and department: fgcf.
+
+--- Python OOP Project:Employee Management System ---
+Choose an operation:
+1. Create a Person
+2. Create an Employee
+3. Create a Manager
+4. Show Details
+5. Exit
+
+Enter your choice:  4
+
+Choose details to show:
+1. Person
+2. Employee
+3. Manager
+Enter your choice:  1
+
+Person details:
+Name: sakshi
+Age: 25
+
+--- Python OOP Project:Employee Management System ---
+Choose an operation:
+1. Create a Person
+2. Create an Employee
+3. Create a Manager
+4. Show Details
+5. Exit
+
+Enter your choice:  4
+
+Choose details to show:
+1. Person
+2. Employee
+3. Manager
+Enter your choice:  2
+Employee details:
+Name: komal
+Age: 24
+Employee ID: 12025
+Salary: $ 45,454
+
+--- Python OOP Project:Employee Management System ---
+Choose an operation:
+1. Create a Person
+2. Create an Employee
+3. Create a Manager
+4. Show Details
+5. Exit
+
+Enter your choice:  4
+
+Choose details to show:
+1. Person
+2. Employee
+3. Manager
+Enter your choice:  3
+Manager details:
+Name: aanya
+Age: 35
+Employee ID: 2456
+Salary: $ 23,000
+Department: fgcf
+
+--- Python OOP Project:Employee Management System ---
+Choose an operation:
+1. Create a Person
+2. Create an Employee
+3. Create a Manager
+4. Show Details
+5. Exit
+
+Enter your choice:  5
+
+Exting the system. All resources have been freed.Good bye!
